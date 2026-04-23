@@ -4,6 +4,10 @@
 A modern React dashboard implementation based on the original Figma concept:
 https://www.figma.com/design/aaJnPAHLOpCduDhVwUEuP8/Premium-Custom-Admin-Dashboard
 
+## Screenshot
+
+![Operations Dashboard Preview](./assets/screenshots/operations-dashboard-full.png)
+
 ## What This Project Includes
 
 - KPI overview cards with trend indicators
@@ -46,6 +50,9 @@ npm run build
 
 ```text
 .
+├── assets
+│   └── screenshots
+│       └── operations-dashboard-full.png
 ├── src
 │   ├── app
 │   │   ├── App.tsx
