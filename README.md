@@ -1,8 +1,7 @@
 
 # Premium Custom Admin Dashboard
 
-A modern React dashboard implementation based on the original Figma concept:
-https://www.figma.com/design/aaJnPAHLOpCduDhVwUEuP8/Premium-Custom-Admin-Dashboard
+A premium, custom-built admin dashboard with advanced analytics and operational workflow visualization.
 
 ## Screenshot
 
